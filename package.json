@@ -1,0 +1,17 @@
+{
+  "name": "express-jwt",
+  "version": "1.0.0",
+  "description": "This is sample project to demo JWT",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server",
+    "test": ""
+  },
+  "author": "aguha@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
